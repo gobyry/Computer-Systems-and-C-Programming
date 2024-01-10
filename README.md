@@ -1,2 +1,1 @@
-# Computer Systems and C Programming Assignments
-from the University of California Santa Cruz
+# Computer Systems and C Programming Assignments, University of California Santa Cruz
